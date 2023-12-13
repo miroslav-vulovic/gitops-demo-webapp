@@ -6,7 +6,7 @@ metadata:
     app: gitops-demo
   name: gitops-demo
 spec:
-  replicas: 3
+  replicas: 5
   selector:
     matchLabels:
       app: gitops-demo
