@@ -54,5 +54,5 @@ curl http://localhost:8080/hello
 You should see.
 
 ```
-{"requestCount":1,"greeting":"Hello!"}
+{"requestCount":1,"greeting":"Hello!!!"}
 ```
