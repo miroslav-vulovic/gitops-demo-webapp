@@ -20,6 +20,7 @@ spec:
       containers:
       - image: bibhas2/gitops-demo-webapp
         name: gitops-demo
+        resources: {}
 ---
 
 apiVersion: v1
